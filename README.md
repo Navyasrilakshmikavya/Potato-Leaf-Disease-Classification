@@ -9,8 +9,7 @@ This project aims to classify potato leaf diseases using various machine learnin
 - [Dataset](#dataset)
 - [Models Implemented](#models-implemented)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
